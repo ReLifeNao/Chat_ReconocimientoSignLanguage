@@ -1,0 +1,26 @@
+<annotation>
+	<folder>S</folder>
+	<filename>S.d000151c-3dea-11ec-bd6b-a8a1594e7209.jpg</filename>
+	<path>C:\Users\Usuario\Music\collectedimages\S\S.d000151c-3dea-11ec-bd6b-a8a1594e7209.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>317</xmin>
+			<ymin>107</ymin>
+			<xmax>497</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>xd</folder>
+	<filename>xd.6db3672e-4518-11ec-9970-a8a1594e7209.jpg</filename>
+	<path>C:\Users\Usuario\Music\xd\xd.6db3672e-4518-11ec-9970-a8a1594e7209.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>xd</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>120</ymin>
+			<xmax>387</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

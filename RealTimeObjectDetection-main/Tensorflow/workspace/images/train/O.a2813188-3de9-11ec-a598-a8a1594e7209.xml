@@ -1,0 +1,26 @@
+<annotation>
+	<folder>O</folder>
+	<filename>O.a2813188-3de9-11ec-a598-a8a1594e7209.jpg</filename>
+	<path>C:\Users\Usuario\Music\collectedimages\O\O.a2813188-3de9-11ec-a598-a8a1594e7209.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>O</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymin>200</ymin>
+			<xmax>392</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

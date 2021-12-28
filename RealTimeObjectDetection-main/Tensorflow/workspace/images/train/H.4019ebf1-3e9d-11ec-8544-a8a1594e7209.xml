@@ -1,0 +1,26 @@
+<annotation>
+	<folder>H</folder>
+	<filename>H.4019ebf1-3e9d-11ec-8544-a8a1594e7209.jpg</filename>
+	<path>C:\Users\Usuario\Music\H\H.4019ebf1-3e9d-11ec-8544-a8a1594e7209.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>H</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>358</xmin>
+			<ymin>175</ymin>
+			<xmax>588</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>T</folder>
+	<filename>T.266948b8-3deb-11ec-89b8-a8a1594e7209.jpg</filename>
+	<path>C:\Users\Usuario\Music\collectedimages\T\T.266948b8-3deb-11ec-89b8-a8a1594e7209.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>T</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>287</xmin>
+			<ymin>137</ymin>
+			<xmax>440</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>

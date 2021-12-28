@@ -1,0 +1,26 @@
+<annotation>
+	<folder>E</folder>
+	<filename>E.bd9086bd-3e9c-11ec-9ca8-a8a1594e7209.jpg</filename>
+	<path>C:\Users\Usuario\Music\E\E.bd9086bd-3e9c-11ec-9ca8-a8a1594e7209.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>E</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymin>189</ymin>
+			<xmax>484</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>

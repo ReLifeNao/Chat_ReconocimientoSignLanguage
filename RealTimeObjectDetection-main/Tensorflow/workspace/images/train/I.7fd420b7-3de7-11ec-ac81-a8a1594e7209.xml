@@ -1,0 +1,26 @@
+<annotation>
+	<folder>I</folder>
+	<filename>I.7fd420b7-3de7-11ec-ac81-a8a1594e7209.jpg</filename>
+	<path>C:\Users\Usuario\Music\collectedimages\I\I.7fd420b7-3de7-11ec-ac81-a8a1594e7209.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>196</ymin>
+			<xmax>387</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

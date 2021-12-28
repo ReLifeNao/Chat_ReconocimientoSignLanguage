@@ -1,0 +1,26 @@
+<annotation>
+	<folder>C</folder>
+	<filename>C.6b7c72c0-3de5-11ec-a00d-a8a1594e7209.jpg</filename>
+	<path>C:\Users\Usuario\Music\collectedimages\C\C.6b7c72c0-3de5-11ec-a00d-a8a1594e7209.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>144</ymin>
+			<xmax>444</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

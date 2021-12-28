@@ -1,0 +1,26 @@
+<annotation>
+	<folder>M</folder>
+	<filename>M.10b08941-3de8-11ec-a7f6-a8a1594e7209.jpg</filename>
+	<path>C:\Users\Usuario\Music\collectedimages\M\M.10b08941-3de8-11ec-a7f6-a8a1594e7209.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>M</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymin>145</ymin>
+			<xmax>447</xmax>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>C</folder>
+	<filename>C.5a8b1957-3de5-11ec-93b8-a8a1594e7209.jpg</filename>
+	<path>C:\Users\Usuario\Music\collectedimages\C\C.5a8b1957-3de5-11ec-93b8-a8a1594e7209.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>109</ymin>
+			<xmax>405</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>
