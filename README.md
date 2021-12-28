@@ -5,8 +5,11 @@ Entre los archivos subidos esta la Interfaz del Chat(GUI) de los 3 tipos de usua
 Para la comunicacion se utilizo Sockets y para el reconocimiento de señas se utilizo librerias como Tensorflow, OpenCv, Object Detection in real time, etc.
 
 Chat con Señas, (El reconocimiento se hace letra por letra para formar palabras y mediante el uso de un estimulo o seña extra se envia el mensaje).
+
 ![image](https://user-images.githubusercontent.com/57734334/147525885-57180130-863b-4036-b71b-762c2c184d02.png)
+
 Escritura de letra H:
+
 ![image](https://user-images.githubusercontent.com/57734334/147525993-e34d70ed-1209-4533-97d4-3404d3bfc587.png)
 
 
